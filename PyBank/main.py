@@ -3,7 +3,6 @@ import os
 
 data_file = "budget_data_1.csv"
 os.system("touch financials.txt")
-# output_file = financials.txt
 
 financials = pd.read_csv(data_file)
 

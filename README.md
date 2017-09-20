@@ -1,5 +1,3 @@
-This repository contains two Python codes.
+# Python 
 
-PYPoll is the main assignment. Please grade this one.
-
-PyBank is the extra one.
+This repository contains two sets of Python codes to analyze data from CSV files.
